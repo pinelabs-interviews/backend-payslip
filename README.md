@@ -101,7 +101,7 @@ Annual Salary 80150
 **2. Create a `POST` REST API request to expose your function. Request parameters should include employee_name and annual_salary. The response body should return JSON format. Add unit tests where you think its relevant.**
 You can use:
 - Java 
-- C#
+- .NET
 - C++
 ```
 {
