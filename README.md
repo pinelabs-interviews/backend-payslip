@@ -29,7 +29,7 @@ please create 1 feature branch per requirement then create 1 pull request per fe
 Do not merge your pull request to the main branch!
 
 
-**1. You are tasked to create a C++/C#/Java function `generate_monthly_payslip` to compute a monthly payslip of an individual based on his annual salary with 2 decimal places with unit tests.**
+**1. You are tasked to create a C++/C# with .NET/Java function `generate_monthly_payslip` to compute a monthly payslip of an individual based on his annual salary with 2 decimal places with unit tests.**
 
 Example:
 
@@ -101,7 +101,7 @@ Annual Salary 80150
 **2. Create a `POST` REST API request to expose your function. Request parameters should include employee_name and annual_salary. The response body should return JSON format. Add unit tests where you think its relevant.**
 You can use:
 - Java 
-- .NET
+- C# with .NET
 - C++
 ```
 {
